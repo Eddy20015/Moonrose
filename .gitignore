@@ -46,9 +46,13 @@ ExportedObj/
 *.VC.db
 
 *.mp4
-*.jpg
 *.png
-*.arw
+/Moonrose Content/Moonrose Photoshoot/*.jpg
+/Moonrose Content/Moonrose Footage 8-17-24/*.jpg
+/Moonrose Content/Moonrose Footage 8-19-24/*.jpg
+/Moonrose Content/Moonrose Photoshoot/*.arw
+/Moonrose Content/Moonrose Footage 8-17-24/*.arw
+/Moonrose Content/Moonrose Footage 8-19-24/*.arw
 *.xml
 *.zip
 
