@@ -57,6 +57,7 @@ ExportedObj/
 *.xml
 *.zip
 *.mts
+/Adobe Premiere Pro Auto-Save/*.prproj
 
 # Unity3D generated meta files
 *.pidb.meta
