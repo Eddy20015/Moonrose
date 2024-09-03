@@ -46,6 +46,7 @@ ExportedObj/
 *.VC.db
 
 *.mp4
+*.mov
 *.png
 /Moonrose Content/Moonrose Photoshoot/*.jpg
 /Moonrose Content/Moonrose Footage 8-17-24/*.jpg
@@ -55,6 +56,7 @@ ExportedObj/
 /Moonrose Content/Moonrose Footage 8-19-24/*.arw
 *.xml
 *.zip
+*.mts
 
 # Unity3D generated meta files
 *.pidb.meta
